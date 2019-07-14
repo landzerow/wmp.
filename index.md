@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 高一五班，地表最强！
 
 You can use the [editor on GitHub](https://github.com/landzerow/wmp./edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
